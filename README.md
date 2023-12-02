@@ -1,2 +1,2 @@
-# Projeto-Oz-nio
+# Projeto-Ozõnio
 Sobre a camada de Ozônio
